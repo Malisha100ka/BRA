@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Automat - poker\BogRvatiAutomati\BogRvatiAutomati\bin\Debug\BogRvatiAutomati.exe.config
+C:\Users\Admin\Desktop\Automat - poker\BogRvatiAutomati\BogRvatiAutomati\bin\Debug\BogRvatiAutomati.exe
+C:\Users\Admin\Desktop\Automat - poker\BogRvatiAutomati\BogRvatiAutomati\bin\Debug\BogRvatiAutomati.pdb
+C:\Users\Admin\Desktop\Automat - poker\BogRvatiAutomati\BogRvatiAutomati\obj\Debug\BogRvatiAutomati.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Automat - poker\BogRvatiAutomati\BogRvatiAutomati\obj\Debug\BogRvatiAutomati.Form1.resources
+C:\Users\Admin\Desktop\Automat - poker\BogRvatiAutomati\BogRvatiAutomati\obj\Debug\BogRvatiAutomati.Properties.Resources.resources
+C:\Users\Admin\Desktop\Automat - poker\BogRvatiAutomati\BogRvatiAutomati\obj\Debug\BogRvatiAutomati.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Automat - poker\BogRvatiAutomati\BogRvatiAutomati\obj\Debug\BogRvatiAutomati.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Automat - poker\BogRvatiAutomati\BogRvatiAutomati\obj\Debug\BogRvatiAutomati.exe
+C:\Users\Admin\Desktop\Automat - poker\BogRvatiAutomati\BogRvatiAutomati\obj\Debug\BogRvatiAutomati.pdb
